@@ -2,4 +2,4 @@
 
 straight up thanks very much
 had to create another jenkins
-check jenkins
+check jenkins and now with ssh
